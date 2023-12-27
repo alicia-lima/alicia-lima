@@ -1,8 +1,8 @@
 <h1 align= "center"> ⭐⭐ Hi, I'm Alicia !!⭐⭐ </h1>
 
-<div>  <img aling="left" loading="lazy" src="https://github.com/alicia-lima/alicia-lima/assets/151677921/802fbc58-d022-4339-8b5e-b408270ccd8c" width="300" height="300"/> </div>
+ <img  loading="lazy" src="https://github.com/alicia-lima/alicia-lima/assets/151677921/802fbc58-d022-4339-8b5e-b408270ccd8c" width="300" height="300"/> 
 
-<h2 aling = "right"> Welcome in my github profile 👋  </h2>       
+<h2> Welcome in my github profile 👋  </h2>       
 
 - 🌱 I’m currently learning...
 - 👩‍🎓 I'm currently study in the Alura...  
